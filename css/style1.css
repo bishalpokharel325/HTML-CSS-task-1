@@ -1,0 +1,80 @@
+*{
+    background:grey;
+}
+.box1 {
+    background: orange;
+    width: 80%;
+    height: 550px;
+    margin: 50px 0 0 125px;
+    float: left;
+}
+.box2 {
+    background: red;
+    width: 100%;
+    height: 75px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box3 {
+    background: blue;
+    width: 50%;
+    height: 200px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box4 {
+    background:yellow;
+    width: 50%;
+    height: 200px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box5 {
+    background:green;
+    width: 100%;
+    height: 100px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box6 {
+    background:purple;
+    width: 100%;
+    height: 100px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box7 {
+    background:red;
+    width: 100%;
+    height: 200px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box8 {
+    background:magenta;
+    width: 25%;
+    height: 200px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box9 {
+    background:violet;
+    width: 50%;
+    height: 200px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box10 {
+    background:lightcyan;
+    width: 25%;
+    height: 200px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
+.box11 {
+    background:yellowgreen;
+    width: 100%;
+    height: 75px;
+    margin: 0px 0 0 0px;
+    float: left;
+}
